@@ -1,0 +1,6 @@
+@SIA_PRODCAT_JOSE_HostAddress = http://localhost:5108
+
+GET {{SIA_PRODCAT_JOSE_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
