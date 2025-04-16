@@ -6,7 +6,7 @@ The **ProductCatalog Service** is a RESTful API that allows managing a catalog o
 
 ---
 
-## 🛠 Endpoints
+## 🛠 Endpointss
 
 | Method  | Endpoint                 | Description                      |
 |---------|--------------------------|----------------------------------|
